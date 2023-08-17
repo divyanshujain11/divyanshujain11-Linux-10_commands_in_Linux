@@ -32,38 +32,38 @@
         Windows Command: del
 
 
-6. Opening a Terminal / Command Prompt:
+7. Opening a Terminal / Command Prompt:
 
-       Linux Command: gnome-terminal, konsole, xterm, etc. (varies based on desktop environment)
+                        Linux Command: gnome-terminal, konsole, xterm, etc. (varies based on desktop environment)
 
-       Windows Command: cmd or powershell
+                        Windows Command: cmd or powershell
 
 
 8. Viewing File Contents:
 
-      Linux Command: cat, less, more
+                        Linux Command: cat, less, more
 
-      Windows Command: type
+                        Windows Command: type
 
 
 8. Changing Directories:
 
-      Linux Command: cd
+                        Linux Command: cd
 
-      Windows Command: cd
+                        Windows Command: cd
 
 
 9. Searching for Files:
 
-      Linux Command: find
+                        Linux Command: find
 
-      Windows Command: dir (to list files) or where (to find files)
+                        Windows Command: dir (to list files) or where (to find files)
 
 10. Opening a Web Browser:
 
-      Linux Command: xdg-open (opens default web browser)
+                         Linux Command: xdg-open (opens default web browser)
 
-      Windows Command: start (opens default web browser)
+                        Windows Command: start (opens default web browser)
 
 
 Explanation:
