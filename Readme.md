@@ -1,3 +1,13 @@
+Command-line Chronicles: Navigating the Digital Landscape 🚀
+Task: Mastering Essential Command-Line Operations
+
+📞 Contact: +918107996387
+📧 Email: jaind3010@gmail.com
+
+Unveiling the Command-Line Symphony 🎶
+In the realm where keyboards are wielded like wands and characters flow like spells, command-line mastery unveils a realm of unparalleled digital power. Step into this adventure as we journey through a symphony of commands that transform us into techno-wizards! 🧙‍♂️✨
+
+The Dance of Digital Dynamics 💃🕺
 1. Opening a File Explorer / File Manager:
 
         Linux Command: nautilus (GNOME desktop) or nemo (Cinnamon desktop)
