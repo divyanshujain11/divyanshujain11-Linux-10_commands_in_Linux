@@ -1,44 +1,52 @@
 1. Opening a File Explorer / File Manager:
-
 Linux Command: nautilus (GNOME desktop) or nemo (Cinnamon desktop)
 Windows Command: explorer
-2. Creating a Directory:
 
+
+2. Creating a Directory:
 Linux Command: mkdir
 Windows Command: mkdir
-3. Moving a File:
 
+
+4. Moving a File:
 Linux Command: mv
 Windows Command: move
-4. Copying a File:
 
+
+4. Copying a File:
 Linux Command: cp
 Windows Command: copy
-5. Deleting a File:
 
+
+6. Deleting a File:
 Linux Command: rm
 Windows Command: del
-6. Opening a Terminal / Command Prompt:
 
+
+6. Opening a Terminal / Command Prompt:
 Linux Command: gnome-terminal, konsole, xterm, etc. (varies based on desktop environment)
 Windows Command: cmd or powershell
-7. Viewing File Contents:
 
+
+8. Viewing File Contents:
 Linux Command: cat, less, more
 Windows Command: type
-8. Changing Directories:
 
+
+8. Changing Directories:
 Linux Command: cd
 Windows Command: cd
-9. Searching for Files:
 
+
+10. Searching for Files:
 Linux Command: find
 Windows Command: dir (to list files) or where (to find files)
 
 10. Opening a Web Browser:
-
 Linux Command: xdg-open (opens default web browser)
 Windows Command: start (opens default web browser)
+
+
 Explanation:
 
 In both Linux and Windows, many actions performed using the graphical interface can be achieved using command-line commands. The commands listed above are just a starting point, and there are many more commands available in both operating systems to perform various tasks.
