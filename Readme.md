@@ -1,70 +1,69 @@
 1. Opening a File Explorer / File Manager:
 
-Linux Command: nautilus (GNOME desktop) or nemo (Cinnamon desktop)
+        Linux Command: nautilus (GNOME desktop) or nemo (Cinnamon desktop)
 
-Windows Command: explorer
+        Windows Command: explorer
 
 
 2. Creating a Directory:
 
-Linux Command: mkdir
+        Linux Command: mkdir
 
-Windows Command: mkdir
+        Windows Command: mkdir
 
 
 3. Moving a File:
 
-Linux Command: mv
+        Linux Command: mv
 
-Windows Command: move
+        Windows Command: move
 
 
 4. Copying a File:
+        Linux Command: cp
 
-Linux Command: cp
-
-Windows Command: copy
+        Windows Command: copy
 
 
 6. Deleting a File:
 
-Linux Command: rm
+        Linux Command: rm
 
-Windows Command: del
+        Windows Command: del
 
 
 6. Opening a Terminal / Command Prompt:
 
-Linux Command: gnome-terminal, konsole, xterm, etc. (varies based on desktop environment)
+       Linux Command: gnome-terminal, konsole, xterm, etc. (varies based on desktop environment)
 
-Windows Command: cmd or powershell
+       Windows Command: cmd or powershell
 
 
 8. Viewing File Contents:
 
-Linux Command: cat, less, more
+      Linux Command: cat, less, more
 
-Windows Command: type
+      Windows Command: type
 
 
 8. Changing Directories:
 
-Linux Command: cd
+      Linux Command: cd
 
-Windows Command: cd
+      Windows Command: cd
 
 
-10. Searching for Files:
+9. Searching for Files:
 
-Linux Command: find
+      Linux Command: find
 
-Windows Command: dir (to list files) or where (to find files)
+      Windows Command: dir (to list files) or where (to find files)
 
 10. Opening a Web Browser:
 
-Linux Command: xdg-open (opens default web browser)
+      Linux Command: xdg-open (opens default web browser)
 
-Windows Command: start (opens default web browser)
+      Windows Command: start (opens default web browser)
 
 
 Explanation:
